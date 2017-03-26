@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.github.Angtrim\Android-Five-Stars-Library\v3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="620ece3f481e7905deab3a8e95adc1f3a48edbfc">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.Angtrim-Android-Five-Stars-Library-v3.1_d9936838734434b53b3c8cb3ca11ba7fdbe89f47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="647259be904a75c9999bd728212b52300466650d">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_60307af063448f711c8b56d3a2a7053f3bcb6ae0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\pre-dexed\release\picasso-2.4.0_76bb3106b31b610e5d58b9e21ee17b7650781bfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.github.Angtrim\Android-Five-Stars-Library\v3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="620ece3f481e7905deab3a8e95adc1f3a48edbfc">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\pre-dexed\release\com.github.Angtrim-Android-Five-Stars-Library-v3.1_d9936838734434b53b3c8cb3ca11ba7fdbe89f47.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_c29fd8dbea19f78b7b89a52a1f564fcbfb991a91\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.2.0_c29fd8dbea19f78b7b89a52a1f564fcbfb991a91.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4f10c374dd7cf5f21d19c27472d88e4c10eea20">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ff431d1b3d44363c243ff8cbe0bdbea3bb115cb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_186c5b9ac1d9946825c007c9ae6b121345e1f037\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_b9eb03f2a06fa7a9aca8efe18ed0eaea51896e69\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.2.0_186c5b9ac1d9946825c007c9ae6b121345e1f037.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\libs\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.4.0_76bb3106b31b610e5d58b9e21ee17b7650781bfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_19c54d10623755e1762d645c62d09d281f507ae0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.1_109f6ac59458f8ee584fb0fdd3f780fb37a3321e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.2.0_19c54d10623755e1762d645c62d09d281f507ae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\pre-dexed\release\internal_impl-23.2.0_1ea7275bcce370ac3707aa83633f4dad244e6781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.2.0_b9eb03f2a06fa7a9aca8efe18ed0eaea51896e69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\pre-dexed\release\com.android.support-design-23.0.1_109f6ac59458f8ee584fb0fdd3f780fb37a3321e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SDK_NEW\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_12f59978c13ca011f4076ee39103ce4219b0d090\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK_NEW\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\pre-dexed\release\support-annotations-23.2.0_12f59978c13ca011f4076ee39103ce4219b0d090.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\TUSHARKING\Desktop\Location-WiKi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_1ea7275bcce370ac3707aa83633f4dad244e6781\classes.dex" />
+    </item>
+
+</items>
